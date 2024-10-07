@@ -1,0 +1,67 @@
+{
+	"department": "Sales",
+	"bosses": [
+		{
+			"name": "Alice",
+			"title": "Manager"
+		},
+		{
+			"name": "Bob",
+			"title": "Supervisor"
+		},
+		{
+			"name": "Cathy",
+			"title": "Director"
+		},
+		{
+			"name": "David",
+			"title": "Manager"
+		},
+		{
+			"name": "Eve",
+			"title": "Supervisor"
+		}
+	],
+	"employees": [
+		{
+			"name": "Matt",
+			"projects": [
+				{
+					"name": "Mega App",
+					"budget": 10000000,
+					"release": "2024-06-01"
+				},
+				{
+					"name": "Super App",
+					"budget": 50000000,
+					"release": "2025-01-01"
+				},
+				{
+					"name": "Mini App",
+					"budget": 100000,
+					"release": "2026-12-01"
+				}
+			]
+		},
+		{
+			"name": "Sally",
+			"projects": [
+				{
+					"name": "Uber App",
+					"budget": 30000000,
+					"release": "2027-06-01"
+				},
+				{
+					"name": "Nirvana App",
+					"budget": 50000,
+					"release": "2028-01-01"
+				},
+				{
+					"name": "App App",
+					"budget": 50,
+					"release": "2029-12-01"
+				}
+			]
+		}
+	]
+}

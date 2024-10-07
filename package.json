@@ -1,0 +1,16 @@
+{
+    "name": "compact-stringify",
+    "version": "1.0.0",
+    "description": "A JSON.stringify replacement with more compact and scannable output",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matt Kruse",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matt-kruse/compact-stringify.git"
+    }
+}
