@@ -4,10 +4,18 @@
     "description": "A JSON.stringify replacement with more compact and scannable output",
     "main": "index.js",
     "type": "module",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org"
+    },
+    "keywords": [
+        "json",
+        "stringify",
+        "compact"
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Matt Kruse",
+    "author": "Matt Kruse <github@mattkruse.com> (http://mattkruse.com/)",
     "license": "ISC",
     "repository": {
         "type": "git",
