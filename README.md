@@ -3,7 +3,7 @@ A JSON.stringify replacement with more compact and scannable output
 
 ## Usage
 ```javascript
-import compactStringify from 'custom-stringify'
+import compactStringify from 'compact-stringify'
 const formatted = compactStringify(json)
 console.log(formatted)
 ```
